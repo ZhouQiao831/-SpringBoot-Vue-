@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ‡¿ê
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+E	java:S106#"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ
+X
+java:S1128"BRemove this unused import 'com.example.jsfspringboot.dao.Huiyuan'.(ÀàŸ’
